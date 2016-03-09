@@ -19,4 +19,4 @@ Data Example
 
 Result
 ===============
-<img src="static/description/example.jpg" title="example">
+<img src="web_kanban_graph/static/description/example.jpg" title="example">
