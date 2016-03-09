@@ -25,6 +25,9 @@
 This widget allows to display graph using NVD3 library.
 """,
     'version': '1.0',
+    'author' : 'Jonathan Bravo @jbravot',
+    'complexity': 'normal',
+    'website': 'http://jbravot.github.io/portafolio/',
     'depends': ['web_graph','web_kanban'],
     'data' : [
         'views/web_kanban_graph.xml',

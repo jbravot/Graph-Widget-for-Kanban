@@ -1,4 +1,4 @@
-# Graph Widget for Kanban ODOO
+# Graph Widget for Kanban ODOO V8
 This widget allows to display graph in kanban view using NVD3 library.
 
 Use
@@ -16,3 +16,7 @@ Data Example
   {"value": 0.0, "label": "21-27 mar"},
   {"value": 0.0, "label": "Futuras"}
 ], "id": 2}]`
+
+Result
+===============
+<img src="static/description/example.jpg" title="example">
